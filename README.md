@@ -18,3 +18,5 @@ The templates can be downloaded here or via myhyazid.com
 
 Together We Support the Earth Hour Campaign for UNITING PEOPLE TO PROTECT THE PLANET.
 ====
+
+Special thanks to Martin Angelov for the Countdown Timer tutorial in Tutorialzine.
