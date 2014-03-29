@@ -1,7 +1,12 @@
-EarthHour 2014 - HTML Countdown TImer and promo HTML5 fullscreen video.
+EarthHour 2014 - Site Kit(HTML Countdown Timer and promo HTML5 fullscreen video.)
 ====
 
 Earth Hour 2014 Countdown Timer for Websites.With HTML5 video player.
+
+What included in this package?
+====
+1. HTML5 Fullcreen video
+2. Countdown timer
 
 What is This?
 ====
